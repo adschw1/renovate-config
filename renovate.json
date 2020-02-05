@@ -4,4 +4,9 @@
     "config:base",
     ":automergeMinor"
   ]
+  "major": {
+    "assignees": [
+      "adschw1"
+     ]
+  }
 }
